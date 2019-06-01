@@ -23,6 +23,3 @@ The app also facilitates a user to sell a product where user can enter details a
 
 And finally a **Profile screen** which displays user details and also feature to view previous orders. 
 
-<p align="center">
-  <img src="https://github.com/VanithaKunta/eKart/blob/master/screenshots/Profile.png"/>
-</p>
