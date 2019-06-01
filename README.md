@@ -5,7 +5,7 @@ A simple ecommerce application :shopping_cart: where a user can buy products asw
 
 ## Description
 
-The app consists of a **Home screen** which has a simple intuitive UI where the products listed for sale by other users are listed. The user also has an option where he can filter these items with respect to category. On the top left there is a Menu icon through which the user can navigate through the app.
+The app consists of a **Home screen** which has a simple intuitive UI where the products listed for sale by other users are listed. The user also has an option to filter these items with respect to category. On the top left there is a Menu icon through which the user can navigate through the app.
 
 <p align="center">
   <img width="30%" src="https://github.com/VanithaKunta/eKart/blob/master/screenshots/Home1.png"/>
