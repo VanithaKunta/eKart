@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568150901659",
+    "firebase_url": "https://intersquadtask.firebaseio.com",
+    "project_id": "intersquadtask",
+    "storage_bucket": "intersquadtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568150901659:android:1e74893315e1e771",
+        "android_client_info": {
+          "package_name": "com.intersquadtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568150901659-oi3dpma1jd9i5lj6gjusk2t8lu8vlmkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB686ZaplHbWH9bvRe_jCDT1PZPE80eAM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568150901659-oi3dpma1jd9i5lj6gjusk2t8lu8vlmkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
